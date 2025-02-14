@@ -100,3 +100,7 @@ function showDisplaySection (section) {
 
     section.style.display = 'flex'
 }
+
+//console.log(id); Esto es un comentario de prueba
+
+
